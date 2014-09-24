@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.defaultionic811953" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>default-ionic</name>
+  <name>GotClocked.com</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Ain't nobody got time fo' meetings
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="chris.marshall@vokalinteractive.com" href="http://vokalinteractive.com">
+      VOKAL Interactive
     </author>
   <content src="index.html"/>
   <access origin="*"/>

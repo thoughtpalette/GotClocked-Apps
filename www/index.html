@@ -13,6 +13,7 @@
     -->
 
     <!-- ionic/angularjs js -->
+    <script src="js/lib/jquery.js"></script>
     <script src="lib/ionic/js/ionic.bundle.js"></script>
 
     <!-- cordova script (this will be a 404 during development) -->
@@ -23,12 +24,16 @@
   </head>
   <body ng-app="starter">
 
-    <ion-pane>
-      <ion-header-bar class="bar-stable">
-        <h1 class="title">Ionic Blank Starter</h1>
-      </ion-header-bar>
-      <ion-content>
-      </ion-content>
-    </ion-pane>
+    <ion-nav-bar></ion-nav-bar>
+    <ion-nav-view animation="slide-left-right">
+      <!-- Center content -->
+    </ion-nav-view>
+
+    <script src="js/lib/timer.js"></script>
+    <script src="js/lib/countup.js"></script>
+    <script src="js/lib/moment.js"></script>
+    <script src="js/controller.js"></script>
+    <script src="js/service.js"></script>
+
   </body>
 </html>
