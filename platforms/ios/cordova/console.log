@@ -1,0 +1,18 @@
+2014-09-24 15:25:45.111 default-ionic[4025:737401] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/chrismarshall/Library/Developer/CoreSimulator/Devices/60E285AE-7D89-46AD-8840-D157D1B164F4/data/Containers/Data/Application/80CEDC3C-CE6A-464F-8B7B-2CD011887536/Library/Cookies/Cookies.binarycookies
+2014-09-24 15:25:45.181 default-ionic[4025:737401] Multi-tasking -> Device: YES, App: YES
+2014-09-24 15:25:45.191 default-ionic[4025:737401] Unlimited access to network resources
+2014-09-24 15:25:45.509 default-ionic[4025:737401] [CDVTimer][keyboard] 0.084996ms
+2014-09-24 15:25:45.509 default-ionic[4025:737401] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-24 15:25:45.509 default-ionic[4025:737401] [CDVTimer][statusbar] 0.162959ms
+2014-09-24 15:25:45.509 default-ionic[4025:737401] [CDVTimer][TotalPluginStartup] 0.652015ms
+2014-09-24 15:25:46.148 default-ionic[4025:737401] Resetting plugins due to page load.
+2014-09-24 15:25:46.497 default-ionic[4025:737401] Finished load of: file:///Users/chrismarshall/Library/Developer/CoreSimulator/Devices/60E285AE-7D89-46AD-8840-D157D1B164F4/data/Containers/Bundle/Application/EAB45EC3-25A8-4DF9-881C-A2D0CF83F65F/default-ionic.app/www/index.html
+2014-09-24 15:57:23.680 GotClocked.com[6283:838421] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/chrismarshall/Library/Developer/CoreSimulator/Devices/60E285AE-7D89-46AD-8840-D157D1B164F4/data/Containers/Data/Application/3BADD52A-18C2-4256-BE5C-35FF4DAB02F3/Library/Cookies/Cookies.binarycookies
+2014-09-24 15:57:23.745 GotClocked.com[6283:838421] Multi-tasking -> Device: YES, App: YES
+2014-09-24 15:57:23.769 GotClocked.com[6283:838421] Unlimited access to network resources
+2014-09-24 15:57:23.942 GotClocked.com[6283:838421] [CDVTimer][keyboard] 0.077009ms
+2014-09-24 15:57:23.943 GotClocked.com[6283:838421] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-24 15:57:23.943 GotClocked.com[6283:838421] [CDVTimer][statusbar] 0.163019ms
+2014-09-24 15:57:23.943 GotClocked.com[6283:838421] [CDVTimer][TotalPluginStartup] 0.680983ms
+2014-09-24 15:57:24.011 GotClocked.com[6283:838421] Resetting plugins due to page load.
+2014-09-24 15:57:24.251 GotClocked.com[6283:838421] Finished load of: file:///Users/chrismarshall/Library/Developer/CoreSimulator/Devices/60E285AE-7D89-46AD-8840-D157D1B164F4/data/Containers/Bundle/Application/02E5EAAE-BE09-4139-A7F6-B325EE9F2710/GotClocked.com.app/www/index.html#/
