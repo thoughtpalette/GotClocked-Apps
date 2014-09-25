@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.ionicframework.defaultionic811953.GotClockedcom { <init>(...); }
+
